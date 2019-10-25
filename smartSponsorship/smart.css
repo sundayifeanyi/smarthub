@@ -1,0 +1,71 @@
+@media only screen and(max-width:768px){
+.col{
+    width: 25%;
+    height: 10%;
+}
+}
+img{
+    border-radius: 18px;
+}
+.carousel-inner img {
+    width: 100%;
+    margin-right: 5px;
+    border-radius: 18px 18px 18px 18px;
+  }
+  *{
+      padding: 0px;
+      margin: 0px;
+  }
+  #car0, .container{
+      margin-top: 10px;
+  }
+  body{
+      background-color: gainsboro;
+  }
+  #cost{
+      margin-left: 5px;
+      color: whitesmoke;
+      border-radius: 9px;
+  }
+  .footer{
+      background-color: rgb(218, 216, 216);
+      color: whitesmoke;
+      margin-top: 10px
+  }
+  h2, h2, h5, h3,p,i{
+      text-align: center;
+      color: rgb(9, 9, 41) ;
+  }
+  button{
+      margin-left:220px;
+      background-color: whitesmoke;
+      border-radius: 5px 5px;
+      text-shadow: 1px 1px  gainsboro;
+      padding: 8px;
+  }
+  hr{
+      background-color: gainsboro;
+      height: 1px;
+  }
+  form{
+      width: 100%;
+      margin-left: 2px;
+      margin-right: 2px;
+      background-image: url('../smartSponsorship/sponsor img/fill_forms.svg');
+      background-size: cover;
+  }
+  #myform{
+      margin-left: 210px;
+  }
+   input{
+       width: 70%;
+      padding: 5px;
+      margin: 5px auto;
+      border-radius: 18px;
+  }
+  textarea {
+    border-radius: 18px;
+    width: 75%;
+   padding: 5px;
+   margin: 5px auto;
+}
